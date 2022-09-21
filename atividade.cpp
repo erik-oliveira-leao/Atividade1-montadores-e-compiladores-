@@ -2,7 +2,7 @@
 #include <conio.h>
 int main(void)
 {
-  int i,igual=0;
+  int igual=0;
   
   char texto[6] = "texto"; //altere esta palavra por outra do mesmo tamanho
   char texto2 [6] = "preco"; //altere esta palavra por outra do mesmo tamanho
